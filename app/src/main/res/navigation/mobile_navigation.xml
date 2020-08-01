@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.cryshub.myerrand.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <activity
+        android:id="@+id/nav_pickup"
+        android:name="com.cryshub.myerrand.ActivityPickUp"
+        android:label="@string/menu_pickup"
+        tools:layout="@layout/activity_pick_up" />
+
+    <activity
+        android:id="@+id/nav_relocation"
+        android:name="com.cryshub.myerrand.ActivityRelocation"
+        android:label="@string/menu_relocation"
+        tools:layout="@layout/activity_relocation" />
+
+    <activity
+        android:id="@+id/nav_laundry"
+        android:name="com.cryshub.myerrand.ActivityLaundry"
+        android:label="@string/menu_laundry"
+        tools:layout="@layout/activity_laundry" />
+
+    <activity
+        android:id="@+id/nav_supply"
+        android:name="com.cryshub.myerrand.ActivitySupply"
+        android:label="@string/menu_supply"
+        tools:layout="@layout/activity_supply" />
+
+    <activity
+        android:id="@+id/nav_carhiring"
+        android:name="com.cryshub.myerrand.ActivityCarHiring"
+        android:label="@string/menu_carhiring"
+        tools:layout="@layout/activity_car_hiring" />
+
+    <activity
+        android:id="@+id/nav_realestates"
+        android:name="com.cryshub.myerrand.ActivityRealEstates"
+        android:label="@string/menu_realestates"
+        tools:layout="@layout/activity_real_estates" />
+
+    <fragment
+        android:id="@+id/nav_developer"
+        android:name="com.cryshub.myerrand.DeveloperFragment"
+        android:label="@string/menu_developer"
+        tools:layout="@layout/fragment_developer" />
+
+</navigation>

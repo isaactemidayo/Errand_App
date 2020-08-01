@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cryshub.myerrand">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.cryshub.myerrand.ActivityRealEstates" />
+        <activity android:name="com.cryshub.myerrand.ActivityCarHiring" />
+        <activity android:name="com.cryshub.myerrand.ActivitySupply" />
+        <activity android:name="com.cryshub.myerrand.ActivityLaundry" />
+        <activity android:name="com.cryshub.myerrand.ActivityRelocation" />
+        <activity android:name="com.cryshub.myerrand.ActivityPickUp" />
+        <activity
+            android:name="com.cryshub.myerrand.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.cryshub.myerrand.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

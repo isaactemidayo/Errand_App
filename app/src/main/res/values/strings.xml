@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">My Errands</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">My Errands</string>
+    <string name="nav_header_subtitle">myerrandapp@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_pickup">Pick Up and Delivery Services</string>
+    <string name="menu_relocation">Logistic Service for Relocation </string>
+    <string name="menu_relocation2">Logistic Service for Relocation (Home, Office Others and Packing Assistance)</string>
+    <string name="menu_content">Please Provide Content for this Page.\n</string>
+
+    <string name="menu_laundry">Laundry and House Services</string>
+    <string name="menu_supply">Supply of Cooked and Raw Food</string>
+    <string name="menu_carhiring">Vehicle Hiring</string>
+    <string name="menu_realestates">Real Estate</string>
+    <string name="menu_developer">Developer</string>
+    <string name="menu_activity">Activity</string>
+    <string name="menu_two">"Two"</string>
+    <string name="menu_test">"Test"</string>
+    <string name="menu_whatsapp">"For more enquiry kindly message us on whatsapp\n
+        https://wa.me/2347033872888\n
+       </string>
+
+    <string name="mobile_app_games_dev_ui_ux_full_stack_web_dev"><![CDATA[Mobile (Apps & Games) | UI/UX | Full Stack Web Developer | Machine Learning]]></string>
+    <string name="developer_name">Isaac Temidayo</string>
+    <string name="developer_skills">Java/Kotlin, Swift, React Native, Flutter, React, MongoDB, NodeJS, VueJS, TypeScript, Python, Unity3D, Adobe XD, Photoshop, CorelDraw</string>
+    <string name="developer_email">isaactemidayo@gmail.com</string>
+    <string name="developer_phone">+2347067437278</string>
+    <string name="developer_whatsapp">https://wa.me/2347067437278</string>
+    <string name="relocation2"><![CDATA[(Home || Office || Others & Parking Assistance)]]></string>
+    <string name="laundry2">(Cleaning || Cutting || Fumigation)</string>
+    <string name="car_hiring2">(Inter/Intra State Pickup for a Group or Single)</string>
+    <string name="payment">https://paystack.com/pay/myerrandsapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome_Page">
+        Welcome to My Errands Application. Thank you for downloading our app as we offer you the best services in the errand business.\n\n
+
+        Click on the menu or hamburger icon to begin your transaction with us.\n\n
+
+        Some of the services we render include:\n
+        Pick and Delivery Service \n
+        Relocation Service \n
+        Laundry and Home Services \n
+        Vehicle Hiring \n
+        Real Estate \n
+        Supply of Cooked and Raw Food. \n\n
+
+        Thank you as we maximally attend to all your errand needs.
+    </string>
+    <string name="call_or_message_us_to_schedule_date_and_time_of_pick_up_and_delivery_to_enjoy_our_hassle_free_laundry_services">Call or message us to schedule date and time of pick-up and delivery to enjoy our hassle-free laundry services.</string>
+</resources>

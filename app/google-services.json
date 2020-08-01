@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "41009625224",
+    "firebase_url": "https://my-errand-app.firebaseio.com",
+    "project_id": "my-errand-app",
+    "storage_bucket": "my-errand-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41009625224:android:699329e4b8e3045b39073d",
+        "android_client_info": {
+          "package_name": "com.cryshub.myerrand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41009625224-a88qjo07r2f235pi28s2cnik9ikpair6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc09eHsc4Oh_W7KsY8NK3MTOgC5PUiBso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41009625224-a88qjo07r2f235pi28s2cnik9ikpair6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41009625224:android:668904201a113fa039073d",
+        "android_client_info": {
+          "package_name": "com.cryshub.myerrands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41009625224-a88qjo07r2f235pi28s2cnik9ikpair6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc09eHsc4Oh_W7KsY8NK3MTOgC5PUiBso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41009625224-a88qjo07r2f235pi28s2cnik9ikpair6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

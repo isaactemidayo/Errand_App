@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/menu_home" />
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_pickup"
+            android:icon="@drawable/ic_baseline_apartment_24"
+            android:title="@string/menu_pickup" />
+
+        <item
+            android:id="@+id/nav_relocation"
+            android:icon="@drawable/ic_baseline_local_shipping_24"
+            android:title="@string/menu_relocation" />
+
+        <item
+            android:id="@+id/nav_laundry"
+            android:icon="@drawable/ic_baseline_local_laundry_service_24"
+            android:title="@string/menu_laundry" />
+
+        <item
+            android:id="@+id/nav_supply"
+            android:icon="@drawable/ic_baseline_fastfood_24"
+            android:title="@string/menu_supply" />
+
+        <item
+            android:id="@+id/nav_carhiring"
+            android:icon="@drawable/ic_baseline_directions_car_24"
+            android:title="@string/menu_carhiring" />
+
+        <item
+            android:id="@+id/nav_realestates"
+            android:icon="@drawable/ic_baseline_apartment_24"
+            android:title="@string/menu_realestates" />
+
+        <item
+            android:id="@+id/nav_developer"
+            android:icon="@drawable/ic_person"
+            android:title="@string/menu_developer" />
+
+    </group>
+
+</menu>
